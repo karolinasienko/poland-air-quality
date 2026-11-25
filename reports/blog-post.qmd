@@ -1,0 +1,11 @@
+---
+title: "Analyzing PM2.5 Concentrations in Poland"
+subtitle: "EDS222 Final Project"
+date: 12-10-2026
+author: "Karolina Sienko"
+format: html
+execute:
+  echo: true
+  warning: false
+  message: false
+---
